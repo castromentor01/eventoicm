@@ -62,7 +62,7 @@ const Hero: React.FC = () => {
           <div className="mt-12 bg-navy-800/60 py-3 px-6 rounded-full backdrop-blur-sm">
             <p className="text-gray-300 flex items-center">
               <span className="inline-block w-3 h-3 bg-green-500 rounded-full mr-2 animate-pulse"></span>
-              <span>VAGAS LIMITADAS A 50 PESSOAS</span>
+              <span>VAGAS LIMITADAS A 100 PESSOAS</span>
             </p>
           </div>
         </div>
